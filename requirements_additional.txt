@@ -1,0 +1,7 @@
+pandas
+ipython
+psutil
+pyyaml
+tqdm
+matplotlib
+seaborn
